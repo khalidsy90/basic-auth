@@ -6,7 +6,7 @@ basic-auth
 
 [Heroku](https://khalidsy-basic-auth.herokuapp.com/)
 [Github Actions](https://github.com/khalidsy90/basic-auth/actions)
-[pull request]()
+[pull request](https://github.com/khalidsy90/basic-auth/pull/1)
 
 **Setup**
 
