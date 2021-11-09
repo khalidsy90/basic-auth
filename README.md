@@ -4,8 +4,8 @@ basic-auth
 
 **Links and Resources:**
 
-[Heroku]()
-[Github Actions]()
+[Heroku](https://khalidsy-basic-auth.herokuapp.com/)
+[Github Actions](https://github.com/khalidsy90/basic-auth/actions)
 [pull request]()
 
 **Setup**
